@@ -1,4 +1,5 @@
 # Project Penulisan Ilmiah
+![ProjectPenulisanIlmiah](https://socialify.git.ci/fardardnsyh/ProjectPenulisanIlmiah/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
 membuat Project Penulisan Ilmiah sebagai syarat sidang di universitas gunadarma, PROTOTIPE SISTEM PENYIRAMAN TANAMAN OTOMATIS BERBASIS ARDUINO UNO MENGGUNAKAN TANAMAN KURA
 
                                                         SKEMATIK ALAT PI 
